@@ -1,13 +1,13 @@
-## Happiness-Data-EDA
+# Happiness-Data-EDA
 Introductory-level EDA on UN World Happiness Report and World Bank Metrics from 2019
 
-# Project Notes
+## Project Notes
 This EDA was performed as part of a group project for a course on Probability and Statistics as part of
 a Masters of Data Science at Denver University. It was a fully collaborative effort with classmates
 Don Smith and Brittany Laurent, and results and approaches were reviewed regularly amongst ourselves
 and our class supervisor.
 
-# Data Glossary
+## Data Glossary
 * "country_name"
 * "country_code"
 * "region"
@@ -29,7 +29,7 @@ and our class supervisor.
 
 * "gdpc_change" - Synthetic variable constructed from comparison of UN World Happiness Report 2018 and 2019 GPDC data
 
-# Glossary of Exploratory Approaches
+## Glossary of Exploratory Approaches
 * Studentized Breusch-Pagan Test for Heteroscedasticity of predictor variables
 * Shapiro-Wilk Test and Q-Q Plotting for Normality of predictor variables
 * Decile-level value imputation
