@@ -12,34 +12,20 @@ and our class supervisor.
 * "country_code"
 * "region"
 
-• “happy_rank” - Ranking of happiness score
-
-• “happy_score” - Aggregate happiness score calculated from all other factors
-
-• “happy_gdpc” - GDP per capita
-
-• “happy_supp” - Sense of social support
-
-• “happy_health” - Healthy life expectancy at birth
-
-• “happy_free” - Happiness with level of personal freedom
-
-• “happy_gen” - How often people contribute to charitable causes
-
-• “happy_trust” - Trust level that own national government is not corrupt
-
-• “wb_pov” - % of population below UN international poverty rate
-
-• “wb_unemp” - % of able-bodied labor force unemployed
-
-• “wb_elec” - % of population with access to electricity
-
-• “wb_renew” - % of final energy use from renewable sources
-
-• “wb_hom” - Homicide rate per 100,000 people
-
-• “wb_debt” - National debt as % of government GDP
-
+* “happy_rank” - Ranking of happiness score
+* “happy_score” - Aggregate happiness score calculated from all other factors
+* “happy_gdpc” - GDP per capita
+* “happy_supp” - Sense of social support
+* “happy_health” - Healthy life expectancy at birth
+* “happy_free” - Happiness with level of personal freedom
+* “happy_gen” - How often people contribute to charitable causes
+* “happy_trust” - Trust level that own national government is not corrupt
+* “wb_pov” - % of population below UN international poverty rate
+* “wb_unemp” - % of able-bodied labor force unemployed
+* “wb_elec” - % of population with access to electricity
+* “wb_renew” - % of final energy use from renewable sources
+* “wb_hom” - Homicide rate per 100,000 people
+* “wb_debt” - National debt as % of government GDP
 * "gdpc_change" - Synthetic variable constructed from comparison of UN World Happiness Report 2018 and 2019 GPDC data
 
 ## Glossary of Exploratory Approaches
