@@ -7,6 +7,20 @@ a Masters of Data Science at Denver University. It was a fully collaborative eff
 Don Smith and Brittany Laurent, and results and approaches were reviewed regularly amongst ourselves
 and our class supervisor.
 
+## File Glossary:
+
+happy_data_augment.csv:
+
+  Country-indexed data from 2019 UN World Happiness Report, augmented with 2019 World Bank Metrics
+
+gh_happiness_data_EDA.rmd, .pdf:
+
+  R-markdown file with code and explanation of entire EDA process
+
+PCAbiplot.png:
+
+  Separate file of "most descriptive" interrelation between predictive variables in our data
+
 ## Data Glossary
 * "country_name"
 * "country_code"
