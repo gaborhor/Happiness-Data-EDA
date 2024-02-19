@@ -7,6 +7,10 @@ a Masters of Data Science at Denver University. It was a fully collaborative eff
 Don Smith and Brittany Laurent, and results and approaches were reviewed regularly amongst ourselves
 and our class supervisor.
 
+## My Role
+My primary contributions to this project were code implementation of Shapiro-Wilk testing, Q-Q Plots, Levene
+Testing, and Principal Component Analysis, as well as final decisions on the communication of results and data.
+
 ## File Glossary:
 
 happy_data_augment.csv:
