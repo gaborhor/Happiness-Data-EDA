@@ -1,5 +1,5 @@
 # Happiness-Data-EDA
-Introductory-level EDA on UN World Happiness Report and World Bank Metrics from 2019
+EDA on UN World Happiness Report and World Bank Metrics from 2019
 
 ## Project Notes
 This EDA was performed as part of a group project for a course on Probability and Statistics as part of
