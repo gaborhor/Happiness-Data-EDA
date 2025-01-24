@@ -25,6 +25,9 @@ PCAbiplot.png:
 
   Separate file of "most descriptive" interrelation between predictive variables in our data
 
+  ![image](https://github.com/user-attachments/assets/ffb39669-5b13-4919-96f3-f2f86ac69ae5)
+
+
 ## Data Glossary
 * "country_name"
 * "country_code"
